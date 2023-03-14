@@ -52,3 +52,9 @@ function Transfer({ address, setBalance }) {
 }
 
 export default Transfer;
+
+
+
+
+
+

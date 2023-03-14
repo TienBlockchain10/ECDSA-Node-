@@ -1,7 +1,7 @@
 body {
   font-family: "Muli", sans-serif;
   font-weight: 300;
-  background-color: #e2e8f0;
+  background-image: url(./images/background.jpg);
   padding: 40px;
 }
 
@@ -59,6 +59,7 @@ input {
   letter-spacing: 1px;
   font-weight: 400;
   font-size: .9em;
+
   &:hover {
     cursor: pointer;
   }
